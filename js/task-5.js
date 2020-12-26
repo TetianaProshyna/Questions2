@@ -12,3 +12,9 @@ switch (month) {
   default:
     console.log('march');
 }
+
+// Варианты ответов:
+// 1 - 04/20;
+// 2 - may04;
+// 3 - april;
+// 4 - march;
